@@ -1,0 +1,12 @@
+  div {
+    background: red;
+  }
+
+@media only screen and (max-width: 600px){
+  div {
+    background: yellow;
+  }
+}
+body {
+  font-size: 85%
+}#
